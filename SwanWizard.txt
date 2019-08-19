@@ -1,5 +1,0 @@
-name="swankodi1.0"
-url="http://hotpepperdns.co.za/kodi/swankodi.zip"
-img="https://github.com/Swannie71/SwanKodi/blob/master/icon.png"
-fanart="https://github.com/Swannie71/SwanKodi/blob/master/fanart.jpg"
-description="Swannie Kodi Build"
